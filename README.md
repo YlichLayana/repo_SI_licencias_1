@@ -2,11 +2,7 @@
 ## 1. Elección Licencia
 
 - La licencia es MIT License
-- La licencias permite
-  Commercial use
-  Modification
-  Distribution
-  Private use
-- La licencias no permite
-  Liability
-  Warranty
+- La licencias permite:
+  Commercial use, Modification, Distribution, Private use
+- La licencias no permite:
+  Liability, Warranty
